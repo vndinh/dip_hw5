@@ -6,20 +6,16 @@ Homework 5 Execution
 1. Directory Structure
 
 	master
-		|
-		|-- Test_images
-		|-- 20184187_EE535_DIP_HW5_Report.docx
-		|-- exe_hw5.m
-		|-- problem1.m
-		|-- problem2.m
-		|-- README.txt
+	|
+	|-- Test_images
+	|-- 20184187_EE535_DIP_HW5_Report.docx
+	|-- exe_hw5.m
+	|-- problem1.m
+	|-- problem2.m
+	|-- README.txt
 
 2. Setup Directory to Test_images
-
-	In the line 9 of each file:
-	problem1.m, problem2.m,
-	change the link to Test_images folder coresponding with the execution computer.
-
+	In the line 9 of each file: problem1.m, problem2.m, change the link to Test_images folder coresponding with the execution computer.
 	imgdir = uigetdir('Your_master_directory\Test_images');
 
 3. Execution & Report
