@@ -12,7 +12,7 @@ Homework 5 Execution
 	|-- exe_hw5.m
 	|-- problem1.m
 	|-- problem2.m
-	|-- README.txt
+	|-- README.md
 
 2. Setup Directory to Test_images
 	In the line 9 of each file: problem1.m, problem2.m, change the link to Test_images folder coresponding with the execution computer.
